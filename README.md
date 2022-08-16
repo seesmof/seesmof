@@ -48,6 +48,7 @@
 
 ###
 
+![snake gif](https://github.com/seesmof/seesmof/blob/output/snake.svg)
 <img href="https://raw.githubusercontent.com/seesmof/seesmof/blob/output/snake.svg" alt="Snake animation" />
 
 ###
