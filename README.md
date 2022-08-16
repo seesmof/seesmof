@@ -3,15 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seesmof&label=Profile%20views&color=0e75b6&style=flat" alt="seesmof" /> </p>
 
+<p align="left"> <a href="https://twitter.com/seesmof" target="blank"><img src="https://img.shields.io/twitter/follow/seesmof?logo=twitter&style=for-the-badge" alt="seesmof" /></a> </p>
+
 - 🌱 I’m currently learning **HTML, CSS, SASS, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://github.com/seesmof?tab=repositories](https://github.com/seesmof?tab=repositories)
+- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **seesmwork@gmail.com**
+
+- ⚡ Fun fact **I really like to learn new stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/seesmof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seesmof" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19774944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19774944" height="30" width="40" /></a>
+<a href="https://discord.gg/seesmof#4451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="seesmof#4451" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,6 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seesmof&show_icons=true&locale=en&layout=compact" alt="seesmof" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seesmof&show_icons=true&locale=en" alt="seesmof" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seesmof&" alt="seesmof" /></p>
 
 <!---
 seesmof/seesmof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
