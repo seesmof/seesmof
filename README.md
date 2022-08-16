@@ -1,5 +1,3 @@
-[![MasterHead](https://www.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_24600855.htm)](https://github.com/seesmof)
-
 <h1 align="center">Hi 👋, I'm seesmof</h1>
 <h3 align="center">A passionate beginner frontend developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
