@@ -14,11 +14,11 @@
 ###
 
 <div align="left">
-  <img src="https://img.icons8.com/color/480/000000/html-5--v1.png" height="40" width="52" alt="html5 logo"  />
-  <img src="https://img.icons8.com/color/480/000000/css3.png" height="40" width="52" alt="css3 logo"  />
-  <img src="https://img.icons8.com/color/480/000000/tailwind_css.png" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://img.icons8.com/color/480/000000/bootstrap.png" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://img.icons8.com/color/480/000000/sass-avatar.png" height="40" width="52" alt="sass logo"  />
+  <img src="https://img.icons8.com/color/480/000000/html-5--v1.png" alt="html5 logo"  />
+  <img src="https://img.icons8.com/color/480/000000/css3.png" alt="css3 logo"  />
+  <img src="https://img.icons8.com/color/480/000000/tailwind_css.png" alt="tailwindcss logo"  />
+  <img src="https://img.icons8.com/color/480/000000/bootstrap.png" alt="bootstrap logo"  />
+  <img src="https://img.icons8.com/color/480/000000/sass-avatar.png" alt="sass logo"  />
 </div>
 
 ###
