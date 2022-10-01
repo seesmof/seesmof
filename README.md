@@ -19,6 +19,7 @@
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="tailwindcss logo"  />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap logo"  />
   <img src="https://img.icons8.com/color/48/000000/sass-avatar.png" alt="sass logo"  />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp logo"  />
 </div>
 
 ###
