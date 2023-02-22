@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! My name is Oleh and I'm a beginner front-end developer from Ukraine.</h1>
+<h1 align="center">Greetings! Welcome to my GitHub page.</h1>
 
 ###
 
