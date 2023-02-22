@@ -14,12 +14,10 @@
 ###
 
 <div align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5 logo"  />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo"  />
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="tailwindcss logo"  />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap logo"  />
-  <img src="https://img.icons8.com/color/48/000000/sass-avatar.png" alt="sass logo"  />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp logo"  />
+  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>  
+  <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/css3.png"/>
 </div>
 
 ###
