@@ -1,50 +1,36 @@
-<h1 align="center">Greetings! Welcome to my GitHub page.</h1>
+# Welcome!
 
-###
+I am a computer science student from Ukraine with a passion for everything related to tech and programming. When I'm not coding, I love to spend my time outside hiking and exploring new places.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=seesmof" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=seesmof" height="150" alt="languages graph"  />
-</div>
+## Skills
 
-###
+Here are some of the skills I've acquired through my studies and personal projects:
 
-<img align="right" height="150" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif"  />
+- Python
+- C++
+- HTML
+- CSS
 
-###
+## Education
 
-<div align="left">
-  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>  
-  <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/null/css3.png"/>
-</div>
+I am currently studying computer science at National University "Zaporizhzhia Polytechnic".
 
-###
+## Passions
 
-<div align="left">
-  <a href="mailto:seesmwork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/seesmof" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/289998109226958858" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/SeesmOf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/seesmof/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/19774944/oleh-onyshchenko" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
+In addition to programming, I am passionate about staying up-to-date with the latest technologies and advancements in the field. I am also interested in exploring the ways in which technology can be used to improve our daily lives and make the world a better place.
 
-###
+## Contact Information
 
-![snake gif](https://github.com/seesmof/seesmof/blob/output/snake.svg)
+Feel free to contact me at any time through the following channels:
 
-###
+- [GMail](mailto:seesmwork@gmail.com)
+- [Telegram](https://t.me/seesmof)
+- [Discord](https://discordapp.com/users/289998109226958858)
+
+## Collaboration
+
+I am always open to collaboration and welcome any opportunities to work with others on interesting projects. If you have an idea or project that you think I would be interested in, please don't hesitate to reach out.
+
+## Conclusion
+
+Thank you for taking the time to read my readme. I hope it has given you a better understanding of who I am and what I am passionate about. If you have any questions or would like to collaborate on a project, please feel free to reach out.
