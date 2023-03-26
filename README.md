@@ -35,13 +35,6 @@ I am always open to collaboration and welcome any opportunities to work with oth
 
 Thank you for taking the time to read my readme. I hope it has given you a better understanding of who I am and what I am passionate about. If you have any questions or would like to collaborate on a project, please feel free to reach out.
 
-## Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=seesmof" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=seesmof" height="130" alt="languages graph"  />
-</div>
-
-##
+## Commits
 
 ![snake gif](https://github.com/seesmof/seesmof/blob/output/github-contribution-grid-snake-dark.svg)
