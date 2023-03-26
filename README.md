@@ -44,4 +44,4 @@ Thank you for taking the time to read my readme. I hope it has given you a bette
 
 ##
 
-![snake gif](https://github.com/seesmof/seesmof/blob/output/snake.svg)
+![snake gif](https://github.com/seesmof/seesmof/blob/output/github-contribution-grid-snake-dark.svg)
