@@ -43,3 +43,5 @@ Thank you for taking the time to read my readme. I hope it has given you a bette
 </div>
 
 ##
+
+![snake gif](https://github.com/seesmof/seesmof/blob/output/snake.svg)
