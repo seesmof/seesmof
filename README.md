@@ -23,7 +23,7 @@ In addition to programming, I am passionate about staying up-to-date with the la
 
 Feel free to contact me at any time through the following channels:
 
-- [GMail](mailto:seesmwork@gmail.com)
+- [EMail](mailto:seesmwork@gmail.com)
 - [Telegram](https://t.me/seesmof)
 - [Discord](https://discordapp.com/users/289998109226958858)
 
