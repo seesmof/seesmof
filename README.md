@@ -10,6 +10,9 @@ Here are some of the skills I've acquired through my studies and personal projec
 - C++
 - HTML
 - CSS
+- TailwindCSS
+- DaisyUI
+- Bootstrap
 
 ## Education
 
