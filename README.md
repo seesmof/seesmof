@@ -1,3 +1,5 @@
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 # Welcome!
 
 I am a computer science student from Ukraine with a passion for everything related to tech and programming. When I'm not coding, I love to spend my time outside hiking and exploring new places.
