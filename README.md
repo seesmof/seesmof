@@ -28,6 +28,8 @@ I am currently studying computer science at National University "Zaporizhzhia Po
 
 If you have any questions or feedback, feel free to contact me through the following channels:
 
+[![EMail](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](mailto:seesmwork@gmail.com)
+
 - [EMail](mailto:seesmwork@gmail.com)
 - [Telegram](https://t.me/seesmof)
 - [Discord](https://discordapp.com/users/289998109226958858)
