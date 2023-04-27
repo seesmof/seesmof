@@ -7,12 +7,12 @@ I am a computer science student from Ukraine with a passion for everything relat
 Here are some of the skills I've acquired through my studies and personal projects:
 
 - Python
-- C++
 - HTML
 - CSS
 - TailwindCSS
 - DaisyUI
 - Bootstrap
+- C++
 
 ## Education
 
