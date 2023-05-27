@@ -6,7 +6,7 @@ I am a computer science student from Ukraine with a passion for everything relat
 
 ## Skills
 
-Here are some of the skills I've acquired through my studies and personal projects:
+Here are some of the skills I've acquired through my studies and personal projects :
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
