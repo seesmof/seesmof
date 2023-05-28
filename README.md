@@ -16,7 +16,7 @@ Here are some of the skills I've acquired through my studies and personal projec
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/seesmof?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/seesmof?tab=repositories&q=&type=&language=javascript&sort=)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/seesmof?tab=repositories&q=&type=&language=javascript&sort=)
 
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://github.com/seesmof?tab=repositories&q=&type=&language=&sort=)
 
