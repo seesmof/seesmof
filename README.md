@@ -20,7 +20,7 @@ Here are some of the skills I've acquired through my studies and personal projec
 
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://github.com/seesmof?tab=repositories&q=&type=&language=&sort=)
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](<(https://github.com/seesmof?tab=repositories&q=&type=&language=&sort=)>)
 
 ## Education
 
