@@ -1,5 +1,7 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
+![snake gif](https://github.com/seesmof/seesmof/blob/output/github-contribution-grid-snake-dark.svg)
+
 ###### Skills
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -15,7 +17,3 @@
 
 [![EMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seesmwork@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/289998109226958858)
-
-## Commits
-
-![snake gif](https://github.com/seesmof/seesmof/blob/output/github-contribution-grid-snake-dark.svg)
