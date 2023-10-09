@@ -1,7 +1,5 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-![snake gif](https://github.com/seesmof/seesmof/blob/output/github-contribution-grid-snake-dark.svg)
-
 ###### Skills
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
