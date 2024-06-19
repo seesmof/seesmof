@@ -1,4 +1,4 @@
-![Cross of Jesus Christ our Lord Almighty Holy GOD Most High King of Kings and Lord of Lords in a beautiful field with sheep eating grass and some beautiful flowers underneath the Cross](./Cross%20of%20Jesus%20Christ%20the%20Almighty%20Holy%20Perfect%20Righteous%20Everlasting%20Living%20GOD%20Most%20High%20King%20of%20Kings%20and%20Lord%20of%20Lords.jpeg)
+![Hallelujah thank YOU Jesus Christ our Holy Lord GOD Almighty](./Hallelujah%20thank%20YOU%20Jesus%20Christ%20our%20HOly%20Lord%20GOD%20ALMighty.png)
 
 | [NASB](https://www.biblegateway.com/passage/?search=ROM3.23%2C6.23%2C5.8%2C10.9-10%2C10.13%2C5.1%2C8.1%2CJN3.16%2C14.6%2C3.3&version=NASB) | [UBIO](https://www.biblegateway.com/passage/?search=ROM3.23%2C6.23%2C5.8%2C10.9-10%2C10.13%2C5.1%2C8.1%2CJN3.16%2C14.6%2C3.3&version=UKR) |
 |-|-|
