@@ -1,15 +1,15 @@
-|[NASB](https://www.biblegateway.com/passage/?search=EX20.2-17&version=NASB)|[UBIO](https://www.biblegateway.com/passage/?search=EX20.2-17&version=UKR)|
-|-|-|
-|have no other gods before the LORD Jesus|не май жодних богів поперед ГОСПОДА Ісуса|
-|don't make yourself an idol|не роби собі ідолів|
-|don't take the LORD's Name in vain|не згадуй ГОСПОДНЄ Ім'я намарно|
-|remember the Sabbath, keep it holy|пам'ятай Шабат, зберігай Його святим|
-|honor your father and mother|шануй батька та матір своїх|
-|don't kill|не вбивай|
-|don't steal |не кради |
-|don't commit adultery|не чини перелюбу|
-|don't lie|не бреши|
-|don't covet|не заздри|
+|#|[NASB](https://www.biblegateway.com/passage/?search=EX20.2-17&version=NASB)|[UBIO](https://www.biblegateway.com/passage/?search=EX20.2-17&version=UKR)|
+|-|-|-|
+|1|have no other gods before the LORD Jesus|не май жодних богів поперед ГОСПОДА Ісуса|
+|2|don't make yourself an idol|не роби собі ідолів|
+|3|don't take the LORD's Name in vain|не згадуй ГОСПОДНЄ Ім'я намарно|
+|4|remember the Sabbath, keep it holy|пам'ятай Шабат, зберігай Його святим|
+|5|honor your father and mother|шануй батька та матір своїх|
+|6|don't kill|не вбивай|
+|7|don't steal |не кради |
+|8|don't commit adultery|не чини перелюбу|
+|9|don't lie|не бреши|
+|10|don't covet|не заздри|
 
 ![Hallelujah thank YOU Jesus Christ our Holy Lord GOD Almighty](./Hallelujah%20thank%20YOU%20Jesus%20Christ%20our%20HOly%20Lord%20GOD%20ALMighty.png)
 
