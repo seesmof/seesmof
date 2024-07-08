@@ -1,3 +1,16 @@
+|[NASB](https://www.biblegateway.com/passage/?search=EX20.2-17&version=NASB)|[UBIO](https://www.biblegateway.com/passage/?search=EX20.2-17&version=UKR)|
+|-|-|
+|have no other gods before the LORD Jesus|не май жодних богів поперед ГОСПОДА Ісуса|
+|don't make yourself an idol|не роби собі ідолів|
+|don't take the LORD's Name in vain|не згадуй ГОСПОДНЄ Ім'я намарно|
+|remember the Sabbath, keep it holy|пам'ятай Шабат, зберігай Його святим|
+|honor your father and mother|шануй батька та матір своїх|
+|don't kill|не вбивай|
+|don't steal |не кради |
+|don't commit adultery|не чини перелюбу|
+|don't lie|не бреши|
+|don't covet|не заздри|
+
 ![Hallelujah thank YOU Jesus Christ our Holy Lord GOD Almighty](./Hallelujah%20thank%20YOU%20Jesus%20Christ%20our%20HOly%20Lord%20GOD%20ALMighty.png)
 
 | [NASB](https://www.biblegateway.com/passage/?search=ROM3.23%2C6.23%2C5.8%2C10.9-10%2C10.13%2C5.1%2C8.1%2CJN3.16%2C14.6%2C3.3&version=NASB) | [UBIO](https://www.biblegateway.com/passage/?search=ROM3.23%2C6.23%2C5.8%2C10.9-10%2C10.13%2C5.1%2C8.1%2CJN3.16%2C14.6%2C3.3&version=UKR) |
